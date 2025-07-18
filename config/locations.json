@@ -1,0 +1,23 @@
+{
+    "blr_airport": {
+        "name": "BLR Airport Area",
+        "lamin": 12.9332,
+        "lamax": 12.9621,
+        "lomin": 77.6463,
+        "lomax": 77.6939
+    },
+    "hal_area": {
+        "name": "HAL Area",
+        "lamin": 12.9500,
+        "lamax": 13.0200,
+        "lomin": 77.6000,
+        "lomax": 77.7000
+    },
+    "entire_blr": {
+        "name": "Entire Bangalore",
+        "lamin": 12.2939,
+        "lamax": 13.4076,
+        "lomin": 76.7293,
+        "lomax": 78.2313
+    }
+}
