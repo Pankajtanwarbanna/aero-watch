@@ -22,7 +22,7 @@ Kind of like birdwatching, but for planes. 🛬
 Get those satisfying "plane overhead!" notifications:
 
 ```bash
-# Track your local area (like HAL Airport, BLR - visible from my desk)
+# Track your local area (like HAL Airport, BLR - it's visible from my desk)
 python3 aero_watch.py hal_area
 
 # Watch the busy BLR Airport zone  
