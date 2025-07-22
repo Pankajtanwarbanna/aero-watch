@@ -19,5 +19,12 @@
         "lamax": 13.4076,
         "lomin": 76.7293,
         "lomax": 78.2313
+    },
+    "pune_airport":{
+        "name": "Pune Airport",
+        "lamin": 18.5911,
+        "lamax": 18.5911,
+        "lomin": 73.9287,
+        "lomax": 73.9287
     }
 }
